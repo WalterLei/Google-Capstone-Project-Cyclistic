@@ -10,16 +10,14 @@ I have completed this Project as a junior data analyst for the marketing team at
 
 
 
-## Background:
-
-1. Ask
-
-The finance team at Cyclistic has decided that Members are more profitable that Casuals and advised the marketing team to organise a campaign to convert Casuals to Members.
-
-In order to complete the business task to convert Casuals to Members, I need to provide insight by answering the question "How do annual members and casual riders use Cyclistic bikes differently?"
 
 
-2. Prepare
+## 1. Ask
+
+The business strategy of Cyclistic is to convert Casuals to Members and the Marketing Team will launch a campaign to achieve this goal. As a junior data analyst, I will provide insight to help the campaign better attracting Causals by analysing How Members and Casual use Cyclistic bikes differently.
+
+
+## 2. Prepare
 
 I am analysing historical Cyclistic data for 12 months (from Nov 2021 to Oct 2022) The data is reliable and stored in CSV file. 
 
@@ -28,7 +26,7 @@ Note: The raw Cyclistic dataset can be found here (https://divvy-tripdata.s3.ama
 The identity of the riders has been safeeguarded by hiding personal information through tokenisation.
 
 
-3. Process
+## 3. Process
 
 I used SQL on Microsoft SQL to combine and clean the data.
 
@@ -44,7 +42,7 @@ c. Replace "docked_bike" with "classic_bike" as they represent the same classic 
 d. Extract days of the week, month, time and duration of rides.
  
 
-4 & 5. Analyse & Share Insights
+## 4 & 5. Analyse & Share Insights
 
 The two stages are perfromed together here.
 
@@ -71,7 +69,6 @@ Insight from analysis
 
 Summary of Insights
 
-We can conclude that 
 
 1. Casuals tend to ride for leisure and the preferred time is between midday and evening on the weekend in the late spring and early summer (March to June).
 
@@ -80,7 +77,7 @@ We can conclude that
 3. Casuals tend to start and finish their trips next to the coastal area and tourist attractions while members ride in the business area.
 
 
-6. Act
+## 6. Act
 
 - The marketing campaign should be held in the summer to capture the highest level of ridership of casuals and more resources should be spent on coastal area, the most popular starting and ending stations for casuals during weekends.
 
