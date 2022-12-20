@@ -6,7 +6,7 @@ I have selected the Cyclistic case study for the Capstone Project of the Google 
 
 I follow the six stages of the data analysis process (Ask, Prepare, Process, Analyse, Share & Act), and apply technical tools (SQL, Tableau, R) in each stage to gather insights from data.
 
-I have completed this Project as a junior data analyst for the marketing team at Cyclistic, a bik-share company in Chicago.
+I have completed this Project as a junior data analyst for the marketing team at Cyclistic, a bike-share company in Chicago.
 
 
 
